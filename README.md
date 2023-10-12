@@ -6,9 +6,8 @@
 
 <img width="300" alt="스크린샷 2023-10-12 오후 3 20 53" src="https://github.com/eraaster/eraaster/assets/77476964/e7d40538-6b05-431c-ab7f-5cfa2d5de3ae">
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-
 이 프로젝트는 안드로이드 스튜디오를 이용하여 개발되었으며, 주요 목표는 AI융합학부 학생들을 위한 편리한 도구를 제공하여 학교 생활 및 학과 정보에 쉽게 접근할 수 있도록 하는 것입니다.
+안드로이드 스튜디오는 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JavaScript&logoColor=white" />를 사용하는 안드로이드 어플리케이션 개발 툴 프로그램입니다.
 
 ## 목표
 
