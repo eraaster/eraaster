@@ -2,7 +2,7 @@
 
 # AI융합학부 활동 정보 어플리케이션 개발
 
-**안드로이드 스튜디오를 이용한 AI융합학부 활동 정보 어플리케이션 개발**
+**대표 그림**
 
 <img width="300" alt="스크린샷 2023-10-12 오후 3 20 53" src="https://github.com/eraaster/eraaster/assets/77476964/e7d40538-6b05-431c-ab7f-5cfa2d5de3ae">
 
