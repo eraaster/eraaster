@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # AI융합학부 활동 정보 어플리케이션 개발
 
 **안드로이드 스튜디오를 이용한 AI융합학부 활동 정보 어플리케이션 개발**
