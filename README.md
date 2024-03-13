@@ -1,39 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hello_visitor&fontSize=90" />
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MinYoung%20Profile&descAlignY=51&descAlign=62"/>
 
-# AI융합학부 활동 정보 어플리케이션 개발
+</p>
 
-**대표 그림**
+> Thank you for taking the time to carefully read my README.
 
-<img width="300" alt="스크린샷 2023-10-12 오후 3 20 53" src="https://github.com/eraaster/eraaster/assets/77476964/e7d40538-6b05-431c-ab7f-5cfa2d5de3ae">
+## About Me
 
-<img width="300" alt="스크린샷 2023-10-12 오후 4 58 25" src="https://github.com/eraaster/eraaster/assets/77476964/2687749c-96c8-412d-bd05-9dd78eb67216">
+- Name : Min-Young Lee
+- Nationality : South Korea
+- Age : 23
+- Affiliation : Soongsil University
+- Major : AI Convergence
 
-이 프로젝트는 안드로이드 스튜디오를 이용하여 개발되었으며, 주요 목표는 AI융합학부 학생들을 위한 편리한 도구를 제공하여 학교 생활 및 학과 정보에 쉽게 접근할 수 있도록 하는 것입니다.
-안드로이드 스튜디오는 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JavaScript&logoColor=white" />를 사용하는 안드로이드 어플리케이션 개발 툴 프로그램입니다.
 
-## 목표
+## Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44AB33?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+</p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=White">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
-이 모바일 어플리케이션은 학생들이 더 많은 시간을 학습과 성장에 집중할 수 있도록 돕기 위해 다음과 같은 주요 목표를 가지고 있습니다:
 
-- 최신 AI융합학부 관련 뉴스 및 소식을 제공하여 학생들이 학과 내에서의 업데이트된 정보를 얻을 수 있습니다.
-- 학사 일정과 중요한 일정을 알림을 통해 효과적으로 관리할 수 있도록 지원합니다.
-- 취업 정보와 경력 개발 리소스를 제공하여 학생들이 미래에 대한 계획을 세우는 데 도움을 줍니다.
-- 대외 활동 및 이벤트 정보를 제공하여 학생들이 학과 외부에서의 활발한 참여를 촉진합니다.
+## Project
+- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> Aimers 4th
 
-## 기대 효과
 
-이 어플리케이션을 통해 학생들은 정보 검색에 소요되는 시간을 줄일 수 있을 것으로 기대됩니다. 이는 학업에 더 많은 시간을 투자하고, 학습 경험을 향상시키며, 미래에 대한 계획을 세우는 데 도움을 줄 것입니다.
-
-## 개발 스케줄
-
-이 프로젝트의 개발 스케줄은 다음과 같습니다. :
-
-1. 프로그램에 필요한 데이터를 수집합니다.
-2. 각각의 위젯을 개발합니다.
-3. 디버깅 작업을 수행합니다.
-4. 배포한 후, 문서로 작성합니다.
-5. 어플 만족도 조사를 실시하여, 어플의 지속적인 보완을 제공합니다.
-
-## 참고한 사이트
-
-https://developer.android.com/?hl=ko
