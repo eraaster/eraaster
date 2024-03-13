@@ -22,6 +22,6 @@
 
 
 ## Project
-- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> Aimers 4th
+- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> Aimers 4th Hackathon
 
 
