@@ -22,8 +22,9 @@
 
 
 ## Project
-- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> Aimers 4th Hackathon
+- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> [LG Aimers 4th Hackathon]
+  (https://github.com/eraaster/LG_Aimers_4th)
   </p>
-  https://github.com/eraaster/LG_Aimers_4th
+  
 
 
