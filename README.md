@@ -7,11 +7,11 @@
 
 ## About Me
 
-- Name : Min-Young Lee
-- Nationality : South Korea
-- Age : 23
-- Affiliation : Soongsil University
-- Major : AI Convergence
+- #### Name : Min-Young Lee
+- #### Nationality : South Korea
+- #### Age : 23
+- #### Affiliation : Soongsil University
+- #### Major : AI Convergence
 
 
 ## Stack
@@ -22,9 +22,9 @@
 
 
 ## Project
-- <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white"> [LG Aimers 4th Hackathon]
-  (https://github.com/eraaster/LG_Aimers_4th)
+- #### <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white">  [LG Aimers 4th Hackathon](https://github.com/eraaster/LG_Aimers_4th)
   </p>
+- 
   
 
 
