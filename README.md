@@ -1,103 +1,117 @@
-<div align="center">
+## Minyoung Lee
 
-# 👋 안녕하세요
+👩‍💻 Soongsil University, AI Software<br>
+✉️ eraaster@naver.com<br>
+📚 [Tech Blog](https://velog.io/@eraaster/posts) &nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%98%81-%EC%9D%B4-0a1595427/)
 
----
+💡 서비스가 멈추지 않도록, 안정적인 인프라를 만드는 엔지니어가 되고자 합니다.
 
-## 🧑‍💻 소개
+<br>
 
-- 🎓 숭실대학교 AI소프트웨어학부 재학 (2023.03 ~ 2027.02 졸업예정)
-
----
-
-## 🛠️ 기술 스택
-
-**클라우드 & 인프라**
+## 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**컨테이너 & 오케스트레이션**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-**CI/CD & GitOps**
-
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**모니터링 & 관측 가능성**
-
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**언어 & 데이터**
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
+<br>
 
-## 📜 자격증
+## 💼 Experience
 
-![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate%20(SAA--C03)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CLF](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%20(CLF--C02)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![KCNA](https://img.shields.io/badge/CNCF-KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux Master](https://img.shields.io/badge/리눅스마스터-2급-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SAP ABAP](https://img.shields.io/badge/SAP%20Certified-Back--End%20Developer%20ABAP%20Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-SQL개발자-003545?style=flat-square&logo=amazondynamodb&logoColor=white)
-![TOPCIT](https://img.shields.io/badge/TOPCIT-Level%203-5C6BC0?style=flat-square)
+### 🏢 아크릴(Acryl) — ICT 학점연계 프로젝트 인턴십
+Period: 2026.09 ~ 현재<br>
+Part: GPUBASE 멀티 클러스터 GPU 스케줄링 검증
 
----
+### ☁️ CJ올리브네트웍스 Cloud Wave 부트캠프 7기
+Period: 2025.12 ~ 2026.02<br>
+Part: 클라우드 인프라 · DevOps
 
-## 🎓 교육 · 부트캠프
+### 📦 숭실대학교 Co-op SAP Track
+Period: 2025.09 ~ 2025.12<br>
+Part: SAP MM 모듈 · ABAP Cloud
 
-- **CJ CloudWave 부트캠프** (2025.12 ~ 2026.02) — 클라우드 인프라 · DevOps 실무 과정
-- **교내 SAP Co-op Track 부트캠프** (2025.09 ~ 2025.12) — SAP MM 모듈 · ABAP Cloud
+<br>
 
----
+## 🏆 Award
 
-## 🚀 대표 프로젝트
+### 🏅 KT IT 서포터즈 KIT 3기
+충청남도 교육감 표창
 
-### ☁️ CloudWave — AI 기반 네트워크 이상 탐지 & 멀티리전 DR
-> VPC Flow Logs를 실시간으로 수집·분석해 이상 트래픽을 탐지하고 Slack으로 알림하는 서버리스 파이프라인 구축 *(CJ CloudWave 부트캠프)*
+Activity: 도서·산간 지역 청소년 대상 AI 교육봉사<br>
+Organization: KT<br>
+Period: 2025.05 ~ 2025.09
 
-- **파이프라인:** `VPC Flow Logs → Kinesis → S3 → EventBridge → Step Functions → SageMaker → Lambda → Slack`
-- **고가용성:** Olive Young 세일 러시를 가정한 150,000 VU 부하 처리 아키텍처 설계 (HPA + Karpenter 오토스케일링)
-- **재해 복구(DR):** 서울–도쿄 멀티리전 **Warm Standby** 구성 (Route53 기반 페일오버)
-- **모니터링:** Datadog · CloudWatch 연동 통합 대시보드 구축
-- `AWS` `Terraform` `EKS` `Kinesis` `SageMaker` `Step Functions` `Lambda` `XGBoost`
+<br>
 
-### 🛰️ CORE — 위성 영상 기반 재난 탐지 플랫폼 (인프라)
-> GPU 워크로드를 다루는 재난 탐지 플랫폼의 **인프라 전 영역**을 단독 설계/구축
+## 📜 Certificate
 
-- **GitOps:** `Terraform` + `GitLab CI → ECR → ArgoCD → EKS` 자동 배포 파이프라인
-- **비용 최적화:** `Karpenter` 기반 **GPU 노드 Scale-to-Zero** (g4dn.xlarge / NVIDIA T4)
-- **관측 가능성:** `DCGM + Prometheus + Grafana`로 GPU 사용률/워크로드 모니터링
-- **보안:** `IRSA`로 최소 권한 원칙 적용
+### ☁️ Cloud & Infra
+| Certificate | Issuer | Acquired |
+|:---|:---|:---:|
+| HashiCorp Certified: Terraform Associate | HashiCorp | 2026.07.07 |
+| Kubernetes and Cloud Native Associate (KCNA) | Linux Foundation | 2026.04.05 |
+| AWS Certified Solutions Architect – Associate | AWS | 2026.02.14 |
+| AWS Certified AI Practitioner | AWS | 2026.08.19 |
+| AWS Certified Cloud Practitioner | AWS | 2025.07.28 |
+| 리눅스마스터 2급 | 한국정보통신진흥협회 (KAIT) | 2026.04.03 |
+| 네트워크관리사 2급 | 한국정보통신자격협회 (ICQA) | 2026.09.22 |
 
----
+### 📊 Data & Etc.
+| Certificate | Issuer | Acquired |
+|:---|:---|:---:|
+| ADsP (데이터분석 준전문가) | 한국데이터산업진흥원 (KDATA) | 2026.08.28 |
+| SQLD (SQL 개발자) | 한국데이터산업진흥원 (KDATA) | 2025.09.19 |
+| SAP Certified Associate – Back-End Developer – ABAP Cloud | SAP | 2025.12.13 |
 
-## 🤝 대외활동
+<br>
 
-- **KT IT 서포터즈 (KIT) 3기** — IT 교육 봉사 · 충청남도 교육감 표창
-- **LG CNS AI Genius 11기**
-- **LG SDC 서포터즈**
+## 💻 Project
 
+| Period | Project | Description | Role |
+|:---:|:---|:---|:---:|
+| 2026.03<br>~ 2026.06 | **CORE** | CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템 | Infra · DevOps |
+| 2025.12<br>~ 2026.02 | **올리브영 세일 대응 인프라** | Zero Trust 기반 고가용성 EKS 인프라 · 서울–도쿄 멀티리전 DR | DR · AI 보안 파이프라인 |
+| 2025.09<br>~ 2025.12 | **SAP MM 구매 프로세스** | 구매처 생성 → 구매오더 → 입고 → 송장 처리 ABAP 개발 | Backend (ABAP) |
 
----
+<details>
+<summary><b>🛰️ CORE 상세</b></summary>
+<br>
 
-## 📫 연락처
+- 경량 ResNet18로 1차 스크리닝 후 위험 지역만 고정밀 모델로 추론하는 2단계 파이프라인
+- `Karpenter`로 GPU 노드를 요청 시에만 프로비저닝 (평상시 0개, Scale-to-Zero) + `HPA` 오토스케일링
+- `Terraform` IaC, `GitLab CI → ECR → ArgoCD → EKS` GitOps 무중단 배포
+- `IRSA` 자격증명 관리, `DCGM + Prometheus + Grafana` GPU 실시간 모니터링
 
-<div align="center">
+</details>
 
-[![Email](https://img.shields.io/badge/Email-eraaster@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eraaster@naver.com)
+<details>
+<summary><b>🛒 올리브영 세일 대응 인프라 상세</b></summary>
+<br>
 
-</div>
+- `Route53` Health Check 기반 서울–도쿄 Warm Standby 자동 Failover
+- `VPC Flow Logs → Kinesis → SageMaker(XGBoost) → Lambda → Slack` 이상 트래픽 탐지 파이프라인
+- 150,000 VU 부하테스트: OOMKilled **0건** · 5xx **0건** · P99 **≤ 180ms**
+
+</details>
+
+<br>
+
+## 🤝 Activities
+
+| Period | Activity | Description |
+|:---:|:---|:---|
+| 2026 ~ 현재 | **Cloud Club 10기** | - |
+| 2025.09 ~ 2025.12 | **AWS Cloud Club 3기** | - |
+| 2025.05 ~ 2025.09 | **KT IT 서포터즈 KIT 3기** | 도서·산간 청소년 AI 교육봉사 |
+| 2024.03 ~ 2024.06 | **LG CNS AI Genius 11기** | 중학생 SW·AI 교육봉사 |
+| 2023.09 ~ 2023.12 | **코드하나 코드원 3기** | 초등 SW 교육봉사 |
