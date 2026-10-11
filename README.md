@@ -84,9 +84,9 @@ Period: 2025.05 ~ 2025.09
 
 | Period | Project | Description | Role |
 |:---:|:---|:---|:---:|
-| 2026.03<br>~ 2026.06 | **CORE(https://github.com/Team-Capsyongzzang/core-dashboard)** | CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템 | Infra · DevOps |
-| 2025.12<br>~ 2026.02 | **올리브영 세일 대응 인프라(https://github.com/eraaster/Clmakase-cloudwave)** | Zero Trust 기반 고가용성 EKS 인프라 · 서울–도쿄 멀티리전 DR | DR · AI 보안 파이프라인 |
-| 2025.09<br>~ 2025.12 | **SAP MM 구매 프로세스(https://github.com/eraaster/sap_project)** | 구매처 생성 → 구매오더 → 입고 → 송장 처리 ABAP 개발 | Backend (ABAP) |
+| 2026.03<br>~ 2026.06 | [**CORE**](https://github.com/Team-Capsyongzzang/core-dashboard) | CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템 | Infra · DevOps |
+| 2025.12<br>~ 2026.02 | [**올리브영 세일 대응 인프라**](https://github.com/eraaster/Clmakase-cloudwave) | Zero Trust 기반 고가용성 EKS 인프라 · 서울–도쿄 멀티리전 DR | DR · AI 보안 파이프라인 |
+| 2025.09<br>~ 2025.12 | [**SAP MM 구매 프로세스**](https://github.com/eraaster/sap_project) | 구매처 생성 → 구매오더 → 입고 → 송장 처리 ABAP 개발 | Backend (ABAP) |
 
 <details>
 <summary><b>🛰️ CORE 상세</b></summary>
