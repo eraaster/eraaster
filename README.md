@@ -44,6 +44,11 @@ Part: SAP MM 모듈 · ABAP Cloud
 
 ## 🏆 Award
 
+### 🏆 2026 숭실대학교 캡스톤디자인 경진대회
+🥉 동상
+
+Project: CORE (CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템)<br> Part: Cloud Infra · DevOps<br> Organization: 숭실대학교
+
 ### 🏅 KT IT 서포터즈 KIT 3기
 충청남도 교육감 표창
 
@@ -79,9 +84,9 @@ Period: 2025.05 ~ 2025.09
 
 | Period | Project | Description | Role |
 |:---:|:---|:---|:---:|
-| 2026.03<br>~ 2026.06 | **CORE** | CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템 | Infra · DevOps |
-| 2025.12<br>~ 2026.02 | **올리브영 세일 대응 인프라** | Zero Trust 기반 고가용성 EKS 인프라 · 서울–도쿄 멀티리전 DR | DR · AI 보안 파이프라인 |
-| 2025.09<br>~ 2025.12 | **SAP MM 구매 프로세스** | 구매처 생성 → 구매오더 → 입고 → 송장 처리 ABAP 개발 | Backend (ABAP) |
+| 2026.03<br>~ 2026.06 | **CORE(https://github.com/Team-Capsyongzzang/core-dashboard)** | CPU 스크리닝 기반 GPU 자원 효율형 위성영상 재난 탐지 시스템 | Infra · DevOps |
+| 2025.12<br>~ 2026.02 | **올리브영 세일 대응 인프라(https://github.com/eraaster/Clmakase-cloudwave)** | Zero Trust 기반 고가용성 EKS 인프라 · 서울–도쿄 멀티리전 DR | DR · AI 보안 파이프라인 |
+| 2025.09<br>~ 2025.12 | **SAP MM 구매 프로세스(https://github.com/eraaster/sap_project)** | 구매처 생성 → 구매오더 → 입고 → 송장 처리 ABAP 개발 | Backend (ABAP) |
 
 <details>
 <summary><b>🛰️ CORE 상세</b></summary>
@@ -110,7 +115,7 @@ Period: 2025.05 ~ 2025.09
 
 | Period | Activity | Description |
 |:---:|:---|:---|
-| 2026 ~ 현재 | **Cloud Club 10기** | - |
+| 2026 ~ 현재 | **Cloud Club 10기** | OpenStack 스터디 참여 |
 | 2025.09 ~ 2025.12 | **AWS Cloud Club 3기** | - |
 | 2025.05 ~ 2025.09 | **KT IT 서포터즈 KIT 3기** | 도서·산간 청소년 AI 교육봉사 |
 | 2024.03 ~ 2024.06 | **LG CNS AI Genius 11기** | 중학생 SW·AI 교육봉사 |
