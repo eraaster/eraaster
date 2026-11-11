@@ -62,7 +62,9 @@ Period: 2025.05 ~ 2025.09
 
 ### ☁️ Cloud & Infra
 | Certificate | Issuer | Acquired |
+| Certificate | Issuer | Acquired |
 |:---|:---|:---:|
+| Certified Kubernetes Administrator (CKA) | Linux Foundation | 2026.11.10 |
 | HashiCorp Certified: Terraform Associate | HashiCorp | 2026.07.07 |
 | Kubernetes and Cloud Native Associate (KCNA) | Linux Foundation | 2026.04.05 |
 | AWS Certified Solutions Architect – Associate | AWS | 2026.02.14 |
